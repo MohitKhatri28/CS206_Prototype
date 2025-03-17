@@ -17,5 +17,6 @@ Simply upload the script to **Google Colab**, ensure that the runtime is set to 
 ### Running Locally in Jupyter Notebook  
 To run the script on your local machine using **Jupyter Notebook**, follow these steps:
 
-### Required Dependencies
-transformers, sentence-transformers, torch, accelerate, wikipedia
+- Install the required dependencies: transformers, sentence-transformers, torch, accelerate, wikipedia
+
+- Launch Jupyter Notebook
